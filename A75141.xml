@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of a new and strange discovery that was made by John Sheirly, alias Davis, &amp; Joseph Fisher, the same day of their execution relating to the ordinary of Newgate : with a true copy of the petition, that was presented to the Lord Mayor, by the prisoners of Newgate, concerning the same, with any other remarkable particulars.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75141</idno>
+            <idno type="STC">Wing A189aA</idno>
+            <idno type="STC">ESTC R173138</idno>
+            <idno type="EEBO-CITATION">43077431</idno>
+            <idno type="OCLC">ocm 43077431</idno>
+            <idno type="VID">151492</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75141)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151492)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2261:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of a new and strange discovery that was made by John Sheirly, alias Davis, &amp; Joseph Fisher, the same day of their execution relating to the ordinary of Newgate : with a true copy of the petition, that was presented to the Lord Mayor, by the prisoners of Newgate, concerning the same, with any other remarkable particulars.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prisons --  England --  Officials and employees --  Early works to 1800.</term>
+               <term>Clergy --  England --  Corrupt practices --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:151492:1" rendition="simple:additions"/>
+            <head>An Account of a New and Strange DISCOVERY, That was made by John Sheirly, alias Davis, &amp; Joſeph Fiſher, The ſame Day of their Execution, Relating to the <hi>Ordinary</hi> of <hi>Newgate:</hi> With a True Copy of the Petition, that was Preſented to the <hi>Lord Mayor,</hi> by the Priſoners of <hi>Newgate,</hi> concern<g ref="char:EOLhyphen"/>ing the ſame, with many other remarkable Particulars.</head>
+            <p>WHEN I diſcrib'd what Mr. <hi>Allen</hi> really is, or what a <hi>Clergy</hi> Man ought to be, I humbly beg I may not be thought to reflect upon the <hi>Clergy</hi> in general or of any Religion in particular. There was a <hi>Judas</hi> in the Number Twelve <hi>&amp;c.</hi> But not an example in any Age of a <hi>Clergy</hi> Man's being Guilty to the degree of wronging thoſe that wrong'd others, not only of their Worldly Subſtance, Reputation, or <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e, but of Eternal Happineſs likewiſe. Mr. <hi>Allens</hi> Life ought more parti<g ref="char:EOLhyphen"/>ticularly to be good, having the care of ſo great, and yet miſerable number of Souls, which if not preſerved under the Wings of Care and Tenderneſs, nay and aſſiſted by their Shephard with Temporal Succours, may (as too many daily do) periſh Eternally. His Function ought to be doing all good, ſuffering all wrongs, avoiding in all things giving Scandal; ready upon all occaſions to venture his deareſt Blood for the Propagation of the Faith of Chriſt Jeſus, letting his Actions ſo ſhine <hi>&amp;c.</hi> But if he be found upon due enquirey to have no Coherence with what he ought to be, but a Suborner, a deceiver of Men's Lives, Honour, Souls and all that is dear to them; then where's the harm we do any Profeſſion, or the wrong any Creature can ſuſtaine in his being Detected? on the contrary all the good: It was he, who robb'd the Law of Juſtice, and cry'd <hi>Newey</hi> deſerved the worſt of Puniſhments for his Crimes, but it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow appears by his Marriage to his Siſter, which is the Price of what he Swore at the <hi>Old Baily</hi> or of the trouble coſt and great Pains he was at; But why all this? there was an neceſſity on both of them to be link'd by the Chains of Matrimony, that neither Fear Intereſt nor Diſ<g ref="char:EOLhyphen"/>pair might ever diſcover what would prove the ruine of the Party ſo diſcovered, being both in publick Buſineſs and under a Neceſſity of being thought well of; I will not, notwithſtanding what he has made me unjuſtly ſuffer, be for Poyſoning him under pretence of Comforting him, or abeim him under the ſhadow of reaching a hand as he has but too often done, but will pull him from the Precipice in which he is nigh, by relating to the World ſome few, of his miſdeeds, that the Town may find who was the Suborner of <hi>Jones,</hi> alias <hi>Ambrel,</hi> alias <hi>Clement,</hi> Mr. <hi>Allen</hi> or <hi>Newey:</hi> And to ſet the Saddle upon the right Horſe, tho he be full of the Farſey.</p>
+            <p>
+               <hi>Joſeph Fiſher</hi> was Indicted for Houſe Breaking, and his Proſecution managed by <hi>Anderſon</hi> the Theif Catcher, to whom <hi>Fiſher</hi> gave Six Guineas to bring him off: But was importun'd by <hi>Anderſon</hi> to make it up Twenty, or elſe he would be far from ſerving him <hi>&amp;c.</hi> which <hi>Fiſher</hi> not being able to do, was ſworn againſt and Caſt, tho he declar'd upon the Words of a dying Man that he was Innocent of that Fact, tho he had been Pardon'd by the King for one of the like nature, for ſome particular ſervice done his Majeſty, which induced his Jury to believe what was ſworn againſt him. After Condemnation he was told Mr. <hi>Allen</hi> the <hi>Ordinary</hi> of <hi>Newgate</hi> could ſave his Life; upon which he ordered his Wife, to apply her ſelf to him, which ſhe did with Tears: He told her he had Intereſt ſufficent to ſave any Mans Life, but he muſt have Money to defray his Charges; the poor Woman gave him two Guineas, being all ſhe had, or could procure in the World; but ſhe found that the ſaid <hi>Allen</hi> never went or minded in the leaſt the ſaving of her Husbands Life, tho ſhe ſaid and did all ſhe could to induce him to it, ſo that upon <hi>Friday</hi> the 24th of <hi>May,</hi> her husband was brought with the reſt of the Condemn'd; to the <hi>Chappel</hi> of <hi>Newgate</hi> in order to prepare himſelf for another World; But finding that Mr. <hi>Allen</hi> had got him no Repreive, he beg'd he would return his poor Wife the Two Guineas ſhe had given him, but Mr. <hi>Allen</hi> deny'd to him with Execrable Oathes and Proteſtations that ever his Wife gave him a Farthing, and that ſhe muſt have deceiv'd him, which put the Man into the greateſt of Confuſions, declaring that he was ſure his Wife had done it, and that he had taken away his Life by the keeping thoſe Papers which he had given him into his own Hands to ſhow the King, they being ſign'd by my Lord <hi>Berkley,</hi> for ſervice he had done, and would induced His Majeſty to have Pardon'd him; Mr. <hi>Allen</hi> proteſted by that Holy Place that he knew nothing of the mutter, tho the ſaid <hi>Fiſher</hi> confirm'd what he ſaid to be True upon the Words of a dying Man, and as he hoped for Mercy from a juſt God; Mr. <hi>Allen</hi> telling him he muſt forgive every one, he anſwered he did, and particularly him, who he ſaid had not only Cheated him of Two Guineas, Papers <hi>&amp;c.</hi> but Life alſo. Mr. <hi>Allen</hi> ask<g ref="char:EOLhyphen"/>ed them if they would receive the Sacrament, <hi>Fiſher</hi> asked him how they could receive the Sa<g ref="char:EOLhyphen"/>crament, or believe one Word he told them, and hoped there was no ſuch Villany in the o<g ref="char:EOLhyphen"/>ther World; They went away Exclaiming greivouſly againſt the ſaid <hi>Allen</hi>'s ill Treatment of
+<pb facs="tcp:151492:2"/>them, to the horror and concern of all the Priſoners, and ſeveral Strangers who heard what they ſaid. The next Day after his Execution with much Threatening the ſaid <hi>Allen,</hi> his Wife got the Two Guineas of him, but he deſired her at the ſame time to make Affidavit that he never had any Money of her, which ſhe refuſed, but going to him the next Day for her Hus<g ref="char:EOLhyphen"/>bands Papers, he ſo far prevail'd upon her to make Affidavit before Judge <hi>Gould,</hi> under pretence that he had the Two Guineas, but that he had return'd her them again, and ſome things, quite contrary to what was matter of fact: Mr. <hi>Allen</hi> read the ſaid Affidavit in his Pulpit the <hi>Sunday</hi> following, Exclaming againſt <hi>Mary, Fiſher</hi> and her Deceaſed Husband to all the Priſoners: <hi>Mary Fiſher</hi> having underſtood that Mr. <hi>Allen</hi> had made her Forſwear her ſelf, (for ſhe could neither Read nor Write) was almoſt Diſtracted, went before the Right Honourable the Lord Mayor, and declared all ſhe knew concerning the matter.</p>
+            <p>
+               <hi>John Sheirly,</hi> alias <hi>Davis,</hi> Declar'd upon the words of a Dying Man, that he did give Mr. <hi>Allen</hi> Forty Shillings to ſave his Life, and had ordered his Wife, to pawn her Cloathes off her Back for it, which ſhe did, believing Mr. <hi>Allen,</hi> would ſave her Husbands Life for that Summ: The <hi>Saturday</hi> after her Husband was Condemn'd, Mr. <hi>Allen</hi> told <hi>Sarah Sheirly,</hi> that ſhe muſt get him Twenty Shillings more for Coach Hire, which ſhe did, and told him, <hi>ſhe would go along with him, and throw herſelf at His Majeſty</hi>'s <hi>Feet,</hi> but he told her it would be but in vain, for none would be ſuffered into the Kings Bed Chamber, but thoſe of his Cloath; Mr. <hi>Allen</hi> finding the ſaid <hi>Sarah</hi> very Zealous, and not to be put off by him, did what he could to ſet her Huſ<g ref="char:EOLhyphen"/>band againſt her, and did ſo Effect it, that ſhe believing her Husband had given to ſome lude Woman, what ſhe with the greateſt trouble had got for him; ſhe told him ſhe would never come nigh him more; her Husband wiſh'd ſuch wiſhes, that ſhe could not but believe him, tho Mr. <hi>Allen</hi> deny'd that her Husband gave him a Farthing, with ſuch abominable Wiſhes, that ſhe could not tell what to ſay: The laſt Words the ſaid <hi>Sheirly</hi> ſpoke to his Wife in the Cart was, that he had truely given the ſaid <hi>Allen</hi> the ſaid Forty Shillings, <hi>or that God of his In<g ref="char:EOLhyphen"/>finite Mercy, might never have Pitty on his Soul,</hi> and deſired his Wife to believe what he then ſaid; he likewiſe told her that if ſhe did not do him Juſtice to the utmoſt of her Power, he ſhould never reſt, all which ſhe made Affidavit before my Lord Mayor of; and that ſhe could not reſt Night nor Day, till ſhe had don it; theſe things, with too great a number to be Incerted here, are known by above a Hundred to be matter of Fact, &amp; occaſioned this following Petition.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>To the Right Honourable Sr.</hi> Richard Levit, Knight, Lord Mayor, Shereiffs, <hi>and</hi> Aldermen <hi>of the City of</hi> London.</head>
+                  <head>The Humble Petition of the poor diſtreſed Priſoners, of His Majeſty's Goal of <hi>Newgate.</hi>
+                  </head>
+                  <opener>Moſt Humbly Sheweth,</opener>
+                  <p>That your Petitioners are not deter'd from their former Miſdeeds by the Example, Exhor<g ref="char:EOLhyphen"/>tation, or any real Encouragement, given them by Mr. <hi>Allen</hi> their <hi>Ordinary</hi>'s Life or Conver<g ref="char:EOLhyphen"/>ſation; His telling them of a great God, which they ought to Adore, and the next moment Cheating poor Wretches to the utmoſt of his Power, gives them to Dread, that what he ſays of that is likewiſe falſe; Your Petitioners cannot believe one Word he tells them, and are a<g ref="char:EOLhyphen"/>fraid he may Miſrepreſent, (as to their great Misfortunes, he has two often done) or what's worſe, if Diſobliged by unknown of ways, will he inſure their utter Ruine.</p>
+                  <p>Your Petitioners therefore moſt humbly Implores of your <hi>Lordſhip, Shereiffs, Alder<g ref="char:EOLhyphen"/>men,</hi> &amp;c. that out of Your accuſtomed Zeal to the Faith of Chriſt, Your Clemency to the Miſerable, Your Care to detect Vice, and Encourage Vertue, and prevent the Ruine of ſome Thouſands, both as to Body and Soul; You'l be Graciouſly Pleas'd ſo to Or<g ref="char:EOLhyphen"/>der, that no more at their Deaths Diſpair of Mercy, from a Merciful God, or ſo many Periſh, as Daily do, without Temporal or Spiritual Succours; that You'l be but Pleas'd to Encourage ſuch timberſome Priſoners, as knows ſome part of the ſaid Dr. <hi>Allens</hi> Tricks, and Detect him in the ſame for the good of all Men: And Your Petitioners will for ever Pray, as in Duty Bond, <hi>&amp;c.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>A True Copy of a Certificate.</head>
+                  <opener>
+                     <salute>Captain,</salute>
+                  </opener>
+                  <p>Theſe are to Certify that I know, that in the Month of <hi>January</hi> laſt 1700, a Gentlewoman came into the <hi>Maſter-ſide</hi> Fellons, where I was then a Priſoner, to one Mr. <hi>Jones,</hi> who was alſo a Priſoner, and deſired him to Swear againſt Captain <hi>Charles Newey;</hi> the ſaid <hi>Jones</hi> re<g ref="char:EOLhyphen"/>ply'd, he would not without Forty Shillings in Hand; ſhe then did Pay him one Guinea, and Eighteen Shillings and Six Pence, to Swear againſt Captain <hi>Newey;</hi> I made bold to ask the Gentlewoman, if her Name was not Madam <hi>Newey,</hi> ſhe reply'd <hi>Sir my Name is</hi> Newey, If Examin'd before a Magiſtrate I can declare a great deal more, </p>
+                  <closer>
+                     <signed> Sign'd <hi>Henry Waldrond.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Some that are in Priſon, and ſome that are gone out, do know from <hi>Jones,</hi> and what they themſelves heard paſs betwixt <hi>Allen,</hi> Mrs. <hi>Newey,</hi> and <hi>Jones,</hi> of his being Engaged, Frightened, and Suborn'd to Swear againſt Captain <hi>Newey.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed for the Author, 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
